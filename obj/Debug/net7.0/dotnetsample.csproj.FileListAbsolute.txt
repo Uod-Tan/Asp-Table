@@ -28,3 +28,33 @@
 /Users/jescultura/personal/dotnetsample/obj/Debug/net7.0/dotnetsample.pdb
 /Users/jescultura/personal/dotnetsample/obj/Debug/net7.0/dotnetsample.genruntimeconfig.cache
 /Users/jescultura/personal/dotnetsample/obj/Debug/net7.0/ref/dotnetsample.dll
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\appsettings.Development.json
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\appsettings.json
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.staticwebassets.runtime.json
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.exe
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.deps.json
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.runtimeconfig.json
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.dll
+E:\TRY ASP.NET\Asp-Table\bin\Debug\net7.0\dotnetsample.pdb
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.AssemblyInfoInputs.cache
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.AssemblyInfo.cs
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.csproj.CoreCompileInputs.cache
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.MvcApplicationPartsAssemblyInfo.cache
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.RazorAssemblyInfo.cache
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.RazorAssemblyInfo.cs
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets\msbuild.dotnetsample.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets\msbuild.build.dotnetsample.props
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dotnetsample.props
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dotnetsample.props
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets.pack.json
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets.build.json
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\staticwebassets.development.json
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\scopedcss\bundle\dotnetsample.styles.css
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\scopedcss\projectbundle\dotnetsample.bundle.scp.css
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.dll
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\refint\dotnetsample.dll
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.pdb
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\dotnetsample.genruntimeconfig.cache
+E:\TRY ASP.NET\Asp-Table\obj\Debug\net7.0\ref\dotnetsample.dll
